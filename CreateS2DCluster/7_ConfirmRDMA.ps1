@@ -1,0 +1,1 @@
+Get-NetAdapterRdma | ? Name -like *SMB* | ft Name, Enabled

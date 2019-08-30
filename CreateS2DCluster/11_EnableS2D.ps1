@@ -1,0 +1,1 @@
+Enable-ClusterStorageSpacesDirect -CimSession S2DCluster -PoolFriendlyName S2DPool

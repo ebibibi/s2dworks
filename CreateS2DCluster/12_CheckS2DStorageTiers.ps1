@@ -1,0 +1,1 @@
+Get-StorageTier | ft FriendlyName, ResiliencySettingName
