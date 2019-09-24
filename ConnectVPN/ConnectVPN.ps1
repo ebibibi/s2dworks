@@ -1,5 +1,5 @@
 $AzureGatewayIpAddress = "13.71.132.227" # VPN GatewayのGlobal IP
-$Subnet = @("10.1.0.0/24","10.1.255.0/27") # Azure 側のサブネット 配列であることに注意 @("xxx", "xxx", ...)
+$Subnets = @("10.1.0.0/24","10.1.255.0/27") # Azure 側のサブネット 配列であることに注意 @("xxx", "xxx", ...)
 $PresharedKey = "AzurenoKey" # VPN Gateway構築時に入力したPSKと同じもの
 
 
