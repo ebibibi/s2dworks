@@ -1,6 +1,6 @@
 $PROXY_HOST="172.17.112.178"
 $PROXY_PORT=3128
-$LOCAL_ADDR="<local>"
+$LOCAL_ADDR="<local>;*.s2d.local"
 
 $REG_KEY="HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings"
 
